@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 # Did You Know App
-=======
-# Didyouknow
->>>>>>> 5b93f094c02986b92fbe0a184068e8ef5351ebac
+
+당신이 몰랐던 재미있는 TMI를 알려드립니다!
